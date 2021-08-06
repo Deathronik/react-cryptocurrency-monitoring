@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-cryptocurrency-monitoring/static/css/main.ac30f76c.chunk.css",
+    "main.js": "/react-cryptocurrency-monitoring/static/js/main.12623580.chunk.js",
+    "main.js.map": "/react-cryptocurrency-monitoring/static/js/main.12623580.chunk.js.map",
+    "runtime-main.js": "/react-cryptocurrency-monitoring/static/js/runtime-main.5b316313.js",
+    "runtime-main.js.map": "/react-cryptocurrency-monitoring/static/js/runtime-main.5b316313.js.map",
+    "static/js/2.d74364f2.chunk.js": "/react-cryptocurrency-monitoring/static/js/2.d74364f2.chunk.js",
+    "static/js/2.d74364f2.chunk.js.map": "/react-cryptocurrency-monitoring/static/js/2.d74364f2.chunk.js.map",
+    "index.html": "/react-cryptocurrency-monitoring/index.html",
+    "static/css/main.ac30f76c.chunk.css.map": "/react-cryptocurrency-monitoring/static/css/main.ac30f76c.chunk.css.map",
+    "static/js/2.d74364f2.chunk.js.LICENSE.txt": "/react-cryptocurrency-monitoring/static/js/2.d74364f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b316313.js",
+    "static/js/2.d74364f2.chunk.js",
+    "static/css/main.ac30f76c.chunk.css",
+    "static/js/main.12623580.chunk.js"
+  ]
+}
