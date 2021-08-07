@@ -36,7 +36,7 @@ table {
 
 .tableBottom {
   box-sizing: border-box;
-  margin: 30px 0;
+  margin: 25px 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -132,5 +132,26 @@ table {
   flex-direction: column;
 }
 
+.apiLink {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  margin-bottom: 25px;
+  transition: 0.2s ease-in-out;
+
+  span {
+    font-weight: 600;
+    color: rgb(103, 128, 215);
+    transition: 0.2s ease-in-out;
+
+    &:hover {
+      color: darken(rgb(103, 128, 215), 5%);
+    }
+  }
+
+  &:hover {
+    transform: translateY(-2px);
+  }
+}
 
 

@@ -32,6 +32,11 @@ const Table = () => {
         dispatch(setCurrentPage(page))
     }
 
+    const onChangeRowsCountHandler = (rowsCount) => {
+        dispatch(setCurrentPage(1))
+        dispatch(setPerPage(rowsCount))
+    }
+
     return (
         <div className={styles.tableWrapper}>
             {isFetching === true ?
@@ -78,12 +83,17 @@ const Table = () => {
                 </ul>
                 <div className={styles.chooserRows}>
                     <span>Show rows: </span>
-                    <select onChange={(e) => dispatch(setPerPage(e.target.value))} name="rows">
+                    <select onChange={(e) => onChangeRowsCountHandler(e.target.value)} name="rows">
                         <option value={100}>100</option>
                         <option value={50}>50</option>
                         <option value={20}>20</option>
                     </select>
                 </div>
+            </div>
+            <div className={styles.apiLink}>
+                <a href="https://nomics.com">
+                    <span>Crypto Market Cap & Pricing Data Provided By Nomics</span>
+                </a>
             </div>
         </div>
     );
