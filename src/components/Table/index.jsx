@@ -91,7 +91,7 @@ const Table = () => {
                 </div>
             </div>
             <div className={styles.apiLink}>
-                <a href="https://nomics.com">
+                <a href="https://nomics.com" target="_blank" rel="noreferrer">
                     <span>Crypto Market Cap & Pricing Data Provided By Nomics</span>
                 </a>
             </div>
