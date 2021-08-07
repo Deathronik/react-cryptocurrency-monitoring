@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-cryptocurrency-monitoring/static/css/main.c62304c9.chunk.css",
-    "main.js": "/react-cryptocurrency-monitoring/static/js/main.d5f7b640.chunk.js",
-    "main.js.map": "/react-cryptocurrency-monitoring/static/js/main.d5f7b640.chunk.js.map",
+    "main.js": "/react-cryptocurrency-monitoring/static/js/main.3aa3eaef.chunk.js",
+    "main.js.map": "/react-cryptocurrency-monitoring/static/js/main.3aa3eaef.chunk.js.map",
     "runtime-main.js": "/react-cryptocurrency-monitoring/static/js/runtime-main.5b316313.js",
     "runtime-main.js.map": "/react-cryptocurrency-monitoring/static/js/runtime-main.5b316313.js.map",
     "static/js/2.d74364f2.chunk.js": "/react-cryptocurrency-monitoring/static/js/2.d74364f2.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5b316313.js",
     "static/js/2.d74364f2.chunk.js",
     "static/css/main.c62304c9.chunk.css",
-    "static/js/main.d5f7b640.chunk.js"
+    "static/js/main.3aa3eaef.chunk.js"
   ]
 }
